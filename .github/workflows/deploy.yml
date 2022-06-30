@@ -19,4 +19,4 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "selvakumardhivakar-h-fresh"
-          entrypoint: "./my-project/main.ts" # TODO: update entrypoint
+          entrypoint: "./main.ts" # TODO: update entrypoint
